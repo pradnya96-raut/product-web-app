@@ -98,13 +98,6 @@ The application uses `application.properties` for configuration. Key configurati
 - Server port
 - Application-specific properties
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
 
 ## Support
 
